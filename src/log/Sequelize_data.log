@@ -1,0 +1,6 @@
+[2017-04-30 20:20:55.292] [INFO] Sequelize - system is function getOSType() { [native code] }
+[2017-04-30 20:20:55.454] [DEBUG] Sequelize - name is undefined
+[2017-04-30 20:22:22.866] [INFO] Sequelize - system is bogon
+[2017-04-30 20:22:22.980] [DEBUG] Sequelize - name is undefined
+[2017-04-30 20:23:41.086] [INFO] Sequelize - system is Darwin
+[2017-04-30 20:23:41.215] [DEBUG] Sequelize - name is age
